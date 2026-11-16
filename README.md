@@ -36,7 +36,7 @@ A aplicação consulta `characters?page=1&limit=10` e acrescenta o parâmetro `n
 
 ## Entrega
 
-Repositório: https://github.com/eduardoalvese13/SearchNarutoAPI
+Repositório: [https://github.com/RayssaLN/Search-Naruto-API.git]
 
 Entregue esse link no Google Classroom, conforme o enunciado.
 
